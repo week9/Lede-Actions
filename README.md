@@ -13,3 +13,7 @@ Build OpenWrt using GitHub Actions
 ## 编译来源
 
 https://github.com/coolsnowwolf/lede
+
+## 初始密码
+
+192.168.1.1 password
