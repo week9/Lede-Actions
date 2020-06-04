@@ -16,4 +16,5 @@ https://github.com/coolsnowwolf/lede
 
 ## 初始密码
 
-192.168.1.1 password
+登录地址：192.168.1.1 
+密码：password
