@@ -1,4 +1,4 @@
-# Actions-OpenWrt
+# 自动编译脚本
 
 Build OpenWrt using GitHub Actions
 
